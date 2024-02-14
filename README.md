@@ -17,10 +17,10 @@
 
 I am a Unity game developer from Russia
 
-- I am a college graduate with a degree in Engineering;
-- I am a former student of the University of Cybersecurity;
+- I'm a college graduate with a degree in Engineering;
+- I'm a former student of the University of Cybersecurity;
 - I read technical blogs and articles, and also conduct experiments in my free time;
-- I am always actively looking for career opportunities.
+- I'm always actively looking for career opportunities.
 
 ---
 
