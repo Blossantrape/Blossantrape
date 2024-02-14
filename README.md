@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://domeniczz.github.io"><img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="140" alt="I'm Domenic Zhang, a self taught developer"/></a>
+    <a href="https://t.me/blossantrape"><img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="140" alt="I'm Domenic Zhang, a self taught developer"/></a>
 </div>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=Blossantrape&style=flat-square&color=blueviolet" alt=""/></div>
