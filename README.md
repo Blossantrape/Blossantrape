@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me:
 
-I am a Unity game developer from Russia
+I'm a Unity game developer from Russia
 
 - I'm a college graduate with a degree in Engineering;
 - I'm a former student of the University of Cybersecurity;
