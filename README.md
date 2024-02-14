@@ -1,6 +1,6 @@
 <div align="center">
     <div style="text-align: center;">
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRmOGtnZnV2ajFoMjlmNzQ4bnp4N2J6NHU3a3ZmenZuNG43YWc2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="I'm Anatoliy, a developer in C# and Unity." style="display: block; margin: 0 auto;">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRmOGtnZnV2ajFoMjlmNzQ4bnp4N2J6NHU3a3ZmenZuNG43YWc2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Hello, I'm Anatoliy, a developer in the field of C# and Unity. I specialize in creating games and interactive applications." style="display: block; margin: 0 auto;">
         <div style="width: 450px; margin: 0 auto;">
             I'm Anatoliy, a developer in C# and Unity.
         </div>
