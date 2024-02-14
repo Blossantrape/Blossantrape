@@ -40,5 +40,5 @@ I'm a Unity game developer from Russia
 
 ### 🧵 My Projects:
 
-- CLI Password Generator: [https://github.com/domeniczz/xuecheng-edu-project](https://github.com/Blossantrape/PasswordGenerator)
+- CLI Password Generator: https://github.com/Blossantrape/PasswordGenerator
 - I'm not ready to show my projects on Unity
