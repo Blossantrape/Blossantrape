@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://t.me/blossantrape"><img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="140" alt="I'm Domenic Zhang, a self taught developer"/></a>
+    <a href="https://t.me/blossantrape"><img src="[https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRmOGtnZnV2ajFoMjlmNzQ4bnp4N2J6NHU3a3ZmenZuNG43YWc2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)" width="140" alt="I'm Anatoliy, a developer in C# and Unity."/></a>
 </div>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=Blossantrape&style=flat-square&color=blueviolet" alt=""/></div>
