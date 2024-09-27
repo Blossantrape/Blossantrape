@@ -15,29 +15,14 @@
 
 ### 👨‍💻 About Me:
 
-I'm a Backend developer from Russia
+Backend developer from Russia.
 
-- I'm a college graduate with a degree in Engineering;
-- I'm a former student of the University of Cybersecurity;
-- I read technical blogs and articles, and also conduct experiments in my free time;
-- I'm always actively looking for career opportunities.
-
----
-
-### 🛠️ Languages & Tools:
-
-<p>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-</p>
-<p>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="Maven" width="40" height="40"/>&nbsp;
-</p>
-
-
----
-
+- College graduate with a degree in Engineering;
+- Former student of the University of Cybersecurity;
+- Read technical blogs and articles, and conduct experiments in free time;
+- Actively looking for career opportunities.
 
 ### 🧵 My Projects:
 
 - CLI Password Generator: https://github.com/Blossantrape/PasswordGenerator
-- I'm not ready to show my projects on ///
+- Web ASP.NET + Angular: https://github.com/Blossantrape/ProjectY4
