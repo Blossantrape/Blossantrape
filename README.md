@@ -2,6 +2,6 @@
 
 ### 🧵 My Projects:
 
-- Password Generator: https://github.com/Blossantrape/PasswordGenerator
-- Web ASP.NET + Angular: https://github.com/Blossantrape/ProjectY4
-- 
+- [Password Generator](https://github.com/Blossantrape/PasswordGenerator) - .NET - Генератор паролей.
+- [ProjectY4](https://github.com/Blossantrape/ProjectY4) - ASP.NET + Angular - Стеденты в группе.
+- [BookStore](https://github.com/Blossantrape/BookStore) - ASP.NET Core, Docker - Книжный магазин.
